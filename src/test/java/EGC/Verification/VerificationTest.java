@@ -138,12 +138,12 @@ public class VerificationTest {
 		if(comprobacion)
 			System.out.println("Votacion correcta");
 		else 
-			System.out.println("Votacion amañada");
+			System.out.println("Votacion amanyada");
 		System.out.println("Comprobacion con las keys incorrectas");
 		if(comprobacionAuxiliar)
 			System.out.println("Votacion correcta");
 		else 
-			System.out.println("Votacion amañada");
+			System.out.println("Votacion amanyada");
 		System.out.println("");
 	}
 

@@ -16,11 +16,11 @@ public class RSAUtils {
 	
 	// El metodo getHashCodeMD5 ha sido borrado porque no necesitamos su aplicacion.
 	// El metodo getHashCodeSHA ha sido borrado porque no necesitamos su aplicacion.
-	// 		ya que este año no usamos la encriptacion SHA
+	// 		ya que este anyo no usamos la encriptacion SHA
 	// El metodo returnKeyDES ha sido borrado porque no necesitamos su aplicacion.
-	// 		ya que este año no usamos la encriptacion DES
+	// 		ya que este anyo no usamos la encriptacion DES
 	// Los metodos encryptDES y desencryptDES han sido borrado porque no necesitamos su aplicacion.
-	// 		ya que este año no usamos la encriptacion DES
+	// 		ya que este anyo no usamos la encriptacion DES
 	
 	
 	// Metodo que devuelve un par de keys aleatorias(publica y privada) 
